@@ -19,3 +19,9 @@ Link to collaborator: [https://github.com/abdullah578/ECE444-F2022-Lab1](https:/
 ![](images/Activity4_A.png)
 
 ![](images/Activity4_B.png)
+
+**Activity 5**
+
+![](images/Activity5_1.png)
+
+![](images/Activity5_2.png)
